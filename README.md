@@ -20,5 +20,6 @@ Versatile Undergrad in Data Science Proficient in JavaScript, React.js, Redux, T
 
 ---
 [![](https://visitcount.itsvg.in/api?id=pratik20gb&icon=0&color=0)](https://visitcount.itsvg.in)
+![Snake animation](https://raw.githubusercontent.com/{username}/{username}/output/github-contribution-grid-snake-dark.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
