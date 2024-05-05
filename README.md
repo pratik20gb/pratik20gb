@@ -1,10 +1,6 @@
 # 💫 About Me:
 Versatile Undergrad in Data Science Proficient in JavaScript, React.js, Redux, Tailwind CSS, and C++ with DSA Expertise
 
-
-## 🌐 Socials:
-logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratik-raj-375034217/) 
-
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 # 📊 GitHub Stats:
