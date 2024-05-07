@@ -3,9 +3,9 @@
 
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/nzCDqg3pNqg7K/200w.webp?cid=ecf05e47lsxiybl9h6z8p6ey7k0xgojcx0vulnsfxwnj2msj&ep=v1_gifs_related&rid=200w.webp&ct=g" alt="Header Image" style="height: 300px ; width:1000px "; />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3djNnlsazkyYmR2YXBlcnN0azEydjY5d3JkazdyMml0Y3AxOTVnbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GQvie9jWEuE3m/giphy.gif" alt="Header Image" style="height: 300px ; width:1000px "; />
 </p>
-<h1 align="center">"Success is no accident. It is hard work, perseverance, learning, studying, sacrifice, and most of all, love of what you are doing or learning to do. — Pele</h1><br><br>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
