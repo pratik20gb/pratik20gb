@@ -3,8 +3,11 @@
 
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWYyenQ1NDM3M3lxZTM0bm94MzY3MnB3bml2M3FzbDJ5cDl4d2ViZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OGfv08ze3Uy2QZqeGM/giphy.gif" alt="Header Image" style="height: 350px ; width:1000px "; />
+  <img src="https://media1.giphy.com/media/704iRlAikGSnct1Kd4/giphy.webp?cid=790b7611q9qne467nmzlsjou1qbll757ha9a50npiwa70qzy&ep=v1_gifs_search&rid=giphy.webp&ct=g" alt="Header Image" style="height: 300px ; width:1000px "; />
 </p>
+
+
+
 
 
 <h3 align="center">Connect with me:</h3>
@@ -24,7 +27,7 @@
 
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXJwemdhZG4wd3VyZzV5MDZ0aXNqdnRic2R4YjY1aWlhNnRyZTh5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pTJ72QpXpdpgUrjGIF/giphy.gif" alt="Header Image" style="height: 200px ; width:1000px "; />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXF6dXIwYjlrNmt2bjNwbnU3YmJ2dXJ5eDB2OWtnN3l4ZjkxZW9ldCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f4V2mqvv0wT9m/giphy.gif" alt="Header Image" style="height: 150px ; width:1000px "; />
 </p>
 
 
