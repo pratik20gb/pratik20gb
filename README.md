@@ -1,12 +1,9 @@
 
 
 
-
 <p align="center">
-  <img src="https://media1.giphy.com/media/704iRlAikGSnct1Kd4/giphy.webp?cid=790b7611q9qne467nmzlsjou1qbll757ha9a50npiwa70qzy&ep=v1_gifs_search&rid=giphy.webp&ct=g" alt="Header Image" style="height: 300px ; width:1000px "; />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXF6dXIwYjlrNmt2bjNwbnU3YmJ2dXJ5eDB2OWtnN3l4ZjkxZW9ldCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f4V2mqvv0wT9m/giphy.gif" alt="Header Image" style="height: 250px ; width:1000px "; />
 </p>
-
-
 
 
 
@@ -26,9 +23,6 @@
 [![](https://visitcount.itsvg.in/api?id=pratik20gb&label=Profile%20Views&icon=8&pretty=true)](https://visitcount.itsvg.in)<p align="left"> <a href="https://twitter.com/pratik_solderet" target="blank"><img src="https://img.shields.io/twitter/follow/pratik_solderet?logo=twitter&style=for-the-badge" alt="pratik_solderet" /></a> </p>
 
 
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXF6dXIwYjlrNmt2bjNwbnU3YmJ2dXJ5eDB2OWtnN3l4ZjkxZW9ldCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f4V2mqvv0wT9m/giphy.gif" alt="Header Image" style="height: 150px ; width:1000px "; />
-</p>
 
 
 
