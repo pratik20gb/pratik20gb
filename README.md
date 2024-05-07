@@ -2,8 +2,9 @@
 
 
 
+
 <p align="center">
-  <img src="https://media1.tenor.com/m/3aprEaHFOjMAAAAC/anime-aesthetic.gif" alt="Header Image" style="height: 300px ; width:1000px "; />
+  <img src="https://github.com/pratik20gb/pratik20gb/assets/95163033/aa3e93c4-2786-4257-a67b-5ab9200c336a" alt="Header Image" style="height: 400px ; width:1000px "; />
 </p>
 <h1 align="center">"Success is no accident. It is hard work, perseverance, learning, studying, sacrifice, and most of all, love of what you are doing or learning to do. — Pele</h1><br><br>
 
