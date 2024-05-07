@@ -2,29 +2,27 @@
 
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/L8nfyfkVher70eiEI5/200w.webp?cid=ecf05e47znil7c87tgisa9wawd6le6aaafmfc10exuch1e8h&ep=v1_gifs_related&rid=200w.webp&ct=g"" alt="Header Image" style="height: 200px ; width:1000px "; />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTB3eHl2c3Yycm0xbHg4OW91NHp6aWx2bGt4MXd3NWFyZTJvbzZmcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fA8SijLe86deEhhSTU/giphy.gif"" alt="Header Image" style="height: 250px ; width:700px "; />
 </p>
-
-
-
-<h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/pratik_solderet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pratik_solderet" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pratik-raj-375034217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratik-raj-375034217" height="30" width="40" /></a>
-</p>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=10&color=F70A2B&random=false&width=435&lines=I'm+Pratik+Raj+%40pratik20gb;Welcome+to+my+GItHub+Account;Front-End+Developer+Crafting+Seamless+User+Experiences+with+Cutting-Edge+Web+Technologies;User+Experiences+with+Cutting-Edge+;Web+Technologies;Thanks+For+The+Visit+%F0%9F%98%8E" alt="Typing SVG" /></a></p>
+<br>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p><br><br>
-
-<p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=%40pratik20gb&theme=youtube-dark" alt="GitHub Streak" /></a></p><br><br>
-
-
-
-
-
-
+<h3 align="center">
 <p align="center">
-  <img src="https://media3.giphy.com/media/L8nfyfkVher70eiEI5/200w.webp?cid=ecf05e47znil7c87tgisa9wawd6le6aaafmfc10exuch1e8h&ep=v1_gifs_related&rid=200w.webp&ct=g" alt="Header Image" style="height: 100px ; width:1000px "; />
+  <a href="ttps://linkedin.com/in/pratik-raj-375034217"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/pratik_solderet"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p><br><br>
+
+
+<p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=%40pratik20gb&theme=youtube-dark" alt="GitHub Streak" /></a></p><br>
+
+
+<br><br>
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWNjeXF0ZGlzcXRrd2lxcjhyYmJ5bW9hejN0dDhuNHpldzA1OW5heSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W4d16ep7xSMexLhcoA/giphy.gif" alt="Header Image" style="height: 250px ; width:700px "; />
 </p>
 
 
