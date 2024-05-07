@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHlybG15dHJlNXhlOTBmOXZhNmQ4NGlqZzI2b2h5aXN4MndxcGM4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8nfyfkVher70eiEI5/giphy.gif" alt="Header Image" style="height: 300px ; width:1000px "; />
+  <img src="https://media2.giphy.com/media/nzCDqg3pNqg7K/200w.webp?cid=ecf05e47lsxiybl9h6z8p6ey7k0xgojcx0vulnsfxwnj2msj&ep=v1_gifs_related&rid=200w.webp&ct=g" alt="Header Image" style="height: 300px ; width:1000px "; />
 </p>
 <h1 align="center">"Success is no accident. It is hard work, perseverance, learning, studying, sacrifice, and most of all, love of what you are doing or learning to do. — Pele</h1><br><br>
 
@@ -22,6 +22,10 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=pratik20gb&label=Profile%20Views&icon=8&pretty=true)](https://visitcount.itsvg.in)<p align="left"> <a href="https://twitter.com/pratik_solderet" target="blank"><img src="https://img.shields.io/twitter/follow/pratik_solderet?logo=twitter&style=for-the-badge" alt="pratik_solderet" /></a> </p>
 
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/GQvie9jWEuE3m/200w.webp?cid=ecf05e477ycqa9aj9s82m93cp78nql6evkugkxztgj2ml8zp&ep=v1_gifs_related&rid=200w.webp&ct=g" alt="Header Image" style="height: 100px ; width:1000px "; />
+</p>
 
 
 
