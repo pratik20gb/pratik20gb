@@ -1,9 +1,7 @@
 
 
 
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTB3eHl2c3Yycm0xbHg4OW91NHp6aWx2bGt4MXd3NWFyZTJvbzZmcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fA8SijLe86deEhhSTU/giphy.gif"" alt="Header Image" style="height: 250px ; width:700px "; />
-</p>
+
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=10&color=F70A2B&random=false&width=435&lines=I'm+Pratik+Raj+%40pratik20gb;Welcome+to+my+GItHub+Account;Front-End+Developer+Crafting+Seamless+User+Experiences+with+Cutting-Edge+Web+Technologies;User+Experiences+with+Cutting-Edge+;Web+Technologies;Thanks+For+The+Visit+%F0%9F%98%8E" alt="Typing SVG" /></a></p>
 <br>
