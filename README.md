@@ -1,6 +1,6 @@
 
 
-I’m Pratik Raj, a skilled Full-Stack Developer with expertise in both frontend and backend technologies. I have a comprehensive understanding of modern web development, focusing on building scalable, efficient, and user-friendly applications.
+I'm a Front-End Developer passionate about crafting intuitive and engaging web experiences. I enjoy turning complex problems into simple, elegant solutions and continuously exploring new ways to improve user interaction.
 
 
 
