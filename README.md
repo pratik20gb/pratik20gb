@@ -1,11 +1,4 @@
 
-
-I'm a Front-End Developer passionate about crafting intuitive and engaging web experiences. I enjoy turning complex problems into simple, elegant solutions and continuously exploring new ways to improve user interaction.
-
-
-
-
-
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=10&color=F70A2B&random=false&width=435&lines=I'm+Pratik+Raj+%40pratik20gb;Welcome+to+my+GItHub+Account;Front-End+Developer+Crafting+Seamless+User+Experiences+with+Cutting-Edge+Web+Technologies;User+Experiences+with+Cutting-Edge+;Web+Technologies;Thanks+For+The+Visit+%F0%9F%98%8E" alt="Typing SVG" /></a></p>
 <br>
