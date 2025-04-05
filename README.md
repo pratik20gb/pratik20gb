@@ -2,6 +2,14 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=10&color=F70A2B&random=false&width=435&lines=I'm+Pratik+Raj+%40pratik20gb;Welcome+to+my+GItHub+Account;Front-End+Developer+Crafting+Seamless+User+Experiences+with+Cutting-Edge+Web+Technologies;User+Experiences+with+Cutting-Edge+;Web+Technologies;Thanks+For+The+Visit+%F0%9F%98%8E" alt="Typing SVG" /></a></p>
 <br>
+🚀 I’m Pratik Raj, a passionate Front-End Developer with a strong focus on building clean, responsive, and user-friendly web interfaces using React.js, Tailwind CSS, and JavaScript.
+<hr>
+💡 I enjoy turning ideas into interactive experiences that work seamlessly across devices. My current journey involves exploring advanced concepts in React while expanding my skills in backend development with Node.js and Express.
+<hr>
+🧠 I believe in continuous learning and building in public. Whether it's crafting UI components or improving performance, I enjoy solving real-world problems through code.
+<hr>
+📬 I’m currently open to frontend internship roles and freelance opportunities. Let’s connect and collaborate!
+<br>
 
 <h3 align="center">
 <p align="center">
