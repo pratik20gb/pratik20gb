@@ -1,33 +1,70 @@
+<h1 align="center" style="font-weight: bold;">Hi, I'm Pratik Raj 👋</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=10&color=F70A2B&random=false&width=435&lines=I'm+Pratik+Raj+%40pratik20gb;Welcome+to+my+GItHub+Account;Front-End+Developer+Crafting+Seamless+User+Experiences+with+Cutting-Edge+Web+Technologies;User+Experiences+with+Cutting-Edge+;Web+Technologies;Thanks+For+The+Visit+%F0%9F%98%8E" alt="Typing SVG" /></a></p>
-<br>
-🚀 I’m Pratik Raj, a passionate Front-End Developer with a strong focus on building clean, responsive, and user-friendly web interfaces using React.js, Tailwind CSS, and JavaScript.
-<hr>
-💡 I enjoy turning ideas into interactive experiences that work seamlessly across devices. My current journey involves exploring advanced concepts in React while expanding my skills in backend development with Node.js and Express.
-<hr>
-🧠 I believe in continuous learning and building in public. Whether it's crafting UI components or improving performance, I enjoy solving real-world problems through code.
-<hr>
-📬 I’m currently open to frontend internship roles and freelance opportunities. Let’s connect and collaborate!
-<br>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=Front-End+Developer+%7C+React.js+%7C+Tailwind+CSS;Crafting+Modern+Web+Experiences+With+Passion+🔥" alt="Typing SVG" />
+  </a>
+</p>
 
-<h3 align="center">
+<br/>
+
+<div align="center" style="margin-bottom: 10px;">
+  <a href="#"><img src="https://img.shields.io/badge/Home-000000?style=for-the-badge&logo=github&logoColor=FF0000" /></a>
+  <a href="#-about-me"><img src="https://img.shields.io/badge/About-000000?style=for-the-badge&logo=about-dot-me&logoColor=FF0000" /></a>
+  <a href="#-featured-projects"><img src="https://img.shields.io/badge/Projects-000000?style=for-the-badge&logo=vercel&logoColor=FF0000" /></a>
+  <a href="#-tech-toolbox"><img src="https://img.shields.io/badge/Tech%20Stack-000000?style=for-the-badge&logo=code&logoColor=FF0000" /></a>
+  <a href="#-connect-with-me"><img src="https://img.shields.io/badge/Contact-000000?style=for-the-badge&logo=gmail&logoColor=FF0000" /></a>
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+🎯 Front-End Developer specialized in **React.js** & **Tailwind CSS**  
+🛠️ Backend experience with **Node.js**, **Express**, **MongoDB**  
+🚀 Passionate about clean UI, performance, and accessibility  
+📢 Open for internships & freelance work
+
+---
+
+## 🔥 Featured Projects
+
+| 🚀 Project | 🌐 Live Link |
+|-----------|-------------|
+| 🛠️ **React Project (Coming Soon)** | — |
+| 🍴 **Restaura** – Modern Restaurant Website | [Live Demo](https://restaura-pratik.vercel.app/) |
+| 🌌 **Exo Ape Clone** – Animated Portfolio | [Live Demo](https://exo-ape-pratik.vercel.app/) |
+| 🖤 **Obys Agency Clone** – Creative Design Agency | [Live Demo](https://obys-agency-pratik.vercel.app/) |
+
+---
+
+## 🧰 Tech Toolbox
+
 <p align="center">
-  <a href="https://linkedin.com/in/pratik-raj-375034217"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/pratik_solderet"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-</p><br><br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb&theme=dark" />
+</p>
 
+---
 
-<p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=%40pratik20gb&theme=youtube-dark" alt="GitHub Streak" /></a></p><br>
+## 📈 GitHub Insights
 
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pratik20gb&show_icons=true&theme=radical&title_color=FF0000&icon_color=FF0000&hide_border=true" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=pratik20gb&theme=dark&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&hide_border=true" />
+</p>
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
-<br><br>
+---
 
+## 🤝 Connect With Me
 
+<p align="center">
+  <a href="mailto:pratik20gb@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/pratik-raj-375034217"><img src="https://img.shields.io/badge/LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/pratik_solderet"><img src="https://img.shields.io/badge/Twitter-FF0000?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
 
-<!-- Pratik Raj -->
+---
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pratik20gb&label=Profile%20views&color=FF0000&style=flat" alt="pratik20gb" />
+</p>
