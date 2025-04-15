@@ -1,13 +1,5 @@
 <h1 align="center" style="font-weight: bold;">Hi, I'm Pratik Raj 👋</h1>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=Front-End+Developer+%7C+React.js+%7C+Tailwind+CSS;Crafting+Modern+Web+Experiences+With+Passion+🔥" alt="Typing SVG" />
-  </a>
-</p>
-
-<br/>
-
 <div align="center" style="margin-bottom: 10px;">
   <a href="#"><img src="https://img.shields.io/badge/Home-000000?style=for-the-badge&logo=github&logoColor=FF0000" /></a>
   <a href="#-about-me"><img src="https://img.shields.io/badge/About-000000?style=for-the-badge&logo=about-dot-me&logoColor=FF0000" /></a>
@@ -31,9 +23,9 @@
 
 | 🚀 Project | 🌐 Live Link |
 |-----------|-------------|
-| 🛠️ **React Project (Coming Soon)** | — |
+| 🛠️ **Docs mini** - FrontEnd for Docs App | [Live Demo](https://docs-llc5fhapx-pratik-rajs-projects-0adfcf06.vercel.app/) |
 | 🍴 **Restaura** – Modern Restaurant Website | [Live Demo](https://restaura-pratik.vercel.app/) |
-| 🌌 **Exo Ape Clone** – Animated Portfolio | [Live Demo](https://exo-ape-pratik.vercel.app/) |
+| 🌌 **Exo Ape Clone** – Animated webisite  | [Live Demo](https://exo-ape-pratik.vercel.app/) |
 | 🖤 **Obys Agency Clone** – Creative Design Agency | [Live Demo](https://obys-agency-pratik.vercel.app/) |
 
 ---
