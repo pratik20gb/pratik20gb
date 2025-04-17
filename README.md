@@ -23,7 +23,7 @@
 
 | 🚀 Project | 🌐 Live Link |
 |-----------|-------------|
-| 🛠️ **Docs mini** - FrontEnd for Docs App | [Live Demo](https://docs-llc5fhapx-pratik-rajs-projects-0adfcf06.vercel.app/) |
+| 🛠️ **Docs mini** - FrontEnd for Docs App | [Live Demo]([https://docs-mini-front-end.vercel.app/)) |
 | 🍴 **Restaura** – Modern Restaurant Website | [Live Demo](https://restaura-pratik.vercel.app/) |
 | 🌌 **Exo Ape Clone** – Animated webisite  | [Live Demo](https://exo-ape-pratik.vercel.app/) |
 | 🖤 **Obys Agency Clone** – Creative Design Agency | [Live Demo](https://obys-agency-pratik.vercel.app/) |
