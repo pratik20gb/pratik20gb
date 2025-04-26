@@ -13,8 +13,7 @@
 ## 🧑‍💻 About Me
 
 🎯 Front-End Developer specialized in **React.js** & **Tailwind CSS**  
-🛠️ Backend experience with **Node.js**, **Express**, **MongoDB**  
-🚀 Passionate about clean UI, performance, and accessibility  
+🛠️ Backend  **Node.js**, **Express**, **MongoDB**   
 📢 Open for internships & freelance work
 
 ---
@@ -25,8 +24,8 @@
 |-----------|-------------|
 | 🛠️ **Docs mini** - FrontEnd for Docs App | [Live Demo](https://docs-mini-front-end.vercel.app/) |
 | 🍴 **Restaura** – Modern Restaurant Website | [Live Demo](https://restaura-pratik.vercel.app/) |
-| 🌌 **Exo Ape Clone** – Animated webisite  | [Live Demo](https://exo-ape-pratik.vercel.app/) |
-| 🖤 **Obys Agency Clone** – Creative Design Agency | [Live Demo](https://obys-agency-pratik.vercel.app/) |
+| 🌌 **Exo Ape Clone** –  website Clone  | [Live Demo](https://exo-ape-pratik.vercel.app/) |
+| 🖤 **Obys Agency Clone** – Creative Design Agency Clone | [Live Demo](https://obys-agency-pratik.vercel.app/) |
 
 ---
 
