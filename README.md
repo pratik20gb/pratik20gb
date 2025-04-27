@@ -1,23 +1,5 @@
 <h1 align="center" style="font-weight: bold;">Hi, I'm Pratik Raj 👋</h1>
-
-<div align="center" style="margin-bottom: 10px;">
-  <a href="#"><img src="https://img.shields.io/badge/Home-000000?style=for-the-badge&logo=github&logoColor=FF0000" /></a>
-  <a href="#-about-me"><img src="https://img.shields.io/badge/About-000000?style=for-the-badge&logo=about-dot-me&logoColor=FF0000" /></a>
-  <a href="#-featured-projects"><img src="https://img.shields.io/badge/Projects-000000?style=for-the-badge&logo=vercel&logoColor=FF0000" /></a>
-  <a href="#-tech-toolbox"><img src="https://img.shields.io/badge/Tech%20Stack-000000?style=for-the-badge&logo=code&logoColor=FF0000" /></a>
-  <a href="#-connect-with-me"><img src="https://img.shields.io/badge/Contact-000000?style=for-the-badge&logo=gmail&logoColor=FF0000" /></a>
-</div>
-
 ---
-
-## 🧑‍💻 About Me
-
-🎯 Front-End Developer specialized in **React.js** & **Tailwind CSS**  
-🛠️ Backend  **Node.js**, **Express**, **MongoDB**   
-📢 Open for internships & freelance work
-
----
-
 ## 🔥 Featured Projects
 
 | 🚀 Project | 🌐 Live Link |
