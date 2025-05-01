@@ -1,5 +1,3 @@
-<h1 align="center" style="font-weight: bold;">Pratik Raj👋</h1>
----
 ## 🔥 Featured Projects
 
 | 🚀 Project | 🌐 Live Link |
