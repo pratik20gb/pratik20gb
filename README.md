@@ -1,30 +1,10 @@
-<p >
-  <img src="https://media.giphy.com/media/kBZ212yGzFaxgkSIKW/giphy.gif" width="100" />
+<p>
+  <img src="https://media.giphy.com/media/kBZ212yGzFaxgkSIKW/giphy.gif" width="100" align="left" />
+  <strong style="font-size: 22px;">&nbsp;&nbsp;I'm Pratik Raj</strong>
 </p>
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 
-```javascript
-const pratik_raj = {
-  currentFocus: "Full Stack Development",
-  exploring: "Web3 & Blockchain Technologies",
-  code: ["JavaScript", "TypeScript", "Solidity"],
-  technologies: {
-    frontEnd: {
-      js: ["React", "Next.js"],
-      css: ["Tailwind", "SCSS", "styled-components"]
-    },
-    backEnd: {
-      js: ["Node.js", "Express"],
-      web3: ["Ethereum", "Smart Contracts","Solana"]
-    },
-    databases: ["MongoDB", "PostgreSQL", "Firebase"],
-    devOps: ["Docker", "AWS", "Vercel", "Netlify"]
-  },
-  currentLearning: Smart Contracts & DApp Development",
-  funFact: "I debug with console logs and anime references"
-};
-```
+
 
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> My Tech Stack
 
