@@ -1,9 +1,70 @@
+<p >
+  <img src="https://media.giphy.com/media/kBZ212yGzFaxgkSIKW/giphy.gif" width="100" />
+</p>
 
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
+
+```javascript
+const pratik_raj = {
+  currentFocus: "Full Stack Development",
+  exploring: "Web3 & Blockchain Technologies",
+  code: ["JavaScript", "TypeScript", "Solidity"],
+  technologies: {
+    frontEnd: {
+      js: ["React", "Next.js"],
+      css: ["Tailwind", "SCSS", "styled-components"]
+    },
+    backEnd: {
+      js: ["Node.js", "Express"],
+      web3: ["Ethereum", "Smart Contracts","Solana"]
+    },
+    databases: ["MongoDB", "PostgreSQL", "Firebase"],
+    devOps: ["Docker", "AWS", "Vercel", "Netlify"]
+  },
+  currentLearning: Smart Contracts & DApp Development",
+  funFact: "I debug with console logs and anime references"
+};
+```
+
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> My Tech Stack
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F700A4&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Web+Developer;Learning+Web3+Technologies;Anime+Enthusiast;Turning+Coffee+into+Code" alt="Typing SVG" /></a>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum" />
+  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3.js" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratik20gb&theme=tokyonight&hide_border=true" alt="Pratik's GitHub Streak" />
 </div>
+
+
+
+## <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="30"> Connect With Me
+
+<p align="center">
+  <a href="https://twitter.com/codewithshori" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://linkedin.com/in/pratiktwt" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+
+
+</div>
+
+---
+
