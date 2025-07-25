@@ -1,13 +1,7 @@
-<h1 align="center" style="font-family: monospace;">Hi , I'm Pratik Raj</h1>
-<h3 align="center" style="font-family: monospace;">Frontend Developer | React | TypeScript | JavaScript | Tailwind | MERN </h3>
-
-<p align="end" style="font-family: monospace;">
-  I'm a passionate frontend developer from India focused on building smooth, user-friendly, and animated web experiences. My core stack includes TypeScript, React, Next.js, Tailwind CSS, and GSAP. Currently expanding into backend with Node.js and MongoDB to become a full-stack developer.
-</p>
+<pre > <p align="center">👋 Hi, I'm Pratik Raj, a passionate Web Developer skilled in building responsive and dynamic web applications. </p></pre>
+<h3 align="center" style="font-family: monospace;"> JavaScript | React | TypeScript | Next | Tailwind | MERN </h3>
 
 ---
-
-### 🚀 <span style="font-family: monospace;">Tech Stack I Use</span>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -52,25 +46,12 @@ Tech: React, TypeScript, Node.js, Express, MongoDB, Tailwind
 </pre>
 
 ---
-### 📊 GitHub Stats
 
 
-<p align="">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratik20gb&theme=tokyonight" alt="GitHub Streak" />
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratik20gb&layout=compact&theme=tokyonight" alt="Top Languages" / -->
 </p>
 
-
-
----
-
-### 📬 <span style="font-family: monospace;">Let's Connect</span>
-
-<p align="center" style="font-family: monospace;">
-  📧 <a href="mailto:pratik20gb@gmail.com">pratik20gb@gmail.com</a><br>
-  🐙 <a href="https://github.com/pratik20gb">GitHub</a> • 
-  🔗 <a href="https://www.linkedin.com/in/pratiktwt/">LinkedIn</a>
-</p>
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800" />
 
 
