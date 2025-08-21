@@ -12,6 +12,13 @@
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <!-- C++ -->
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+
+<!-- DSA (using LeetCode + GeeksforGeeks logos since they represent DSA practice) -->
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+
+
 </p>
 
 ---
@@ -38,7 +45,7 @@ Tech: React, Tailwind CSS, Framer Motion
 
 ---
 
-#### 🔹 <span style="font-family: monospace;">RemBrain (Coming Soon)</span>
+#### 🔹 <span style="font-family: monospace;">RemBrain </span>
 <pre>
 A personal vault to save and share important links.
 Includes a custom UI library built from scratch.
