@@ -48,7 +48,7 @@ Tech: React, Tailwind CSS, Framer Motion
 A modern recreation of the KC72 website with smooth animations and responsive UI.
 Tech: React, Tailwind CSS, GSAP, Locomotive Scroll, Framer Motion
 <!-- 🔗 Live Demo: k72-ca-pratik.vercel.app -->
-💻 GitHub: github.com/pratik20gb/KC72
+💻 GitHub: https://github.com/pratik20gb/k72.ca
 </pre>
 
 ---
