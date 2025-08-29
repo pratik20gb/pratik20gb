@@ -1,5 +1,8 @@
-<pre > <p align="center">👋 Hi, I'm Pratik Raj, a passionate Web Developer skilled in building responsive and dynamic web applications. </p></pre>
-<h3 align="center" style="font-family: monospace;"> JavaScript | React | TypeScript | Next | Tailwind | MERN </h3>
+<pre>
+<p align="center">👋 Hi, I'm Pratik Raj, a Front-End Developer.</p>
+</pre>
+
+<h3 align="center" style="font-family: monospace;"> JavaScript | React | TypeScript | Next.js | Tailwind | MERN </h3>
 
 ---
 
@@ -12,13 +15,8 @@
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <!-- C++ -->
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-
-<!-- DSA (using LeetCode + GeeksforGeeks logos since they represent DSA practice) -->
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-
-
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
 </p>
 
 ---
@@ -37,7 +35,7 @@ Tech: React, Tailwind, GSAP, Framer Motion
 
 #### 🔹 <a href="https://restaura-pratik.vercel.app/" style="font-family: monospace;">Restaura – Restaurant Website</a>
 <pre>
-A clean and responsive restaurant site showcasing menu, aesthetics, and design.
+A clean and responsive restaurant website showcasing menu, aesthetics, and design.
 Tech: React, Tailwind CSS, Framer Motion
 🔗 Live Demo: restaura-pratik.vercel.app
 💻 GitHub: github.com/pratik20gb/restaura
@@ -45,20 +43,16 @@ Tech: React, Tailwind CSS, Framer Motion
 
 ---
 
-#### 🔹 <span style="font-family: monospace;">RemBrain </span>
+#### 🔹 <a href="https://k72-ca-pratik.vercel.app/" style="font-family: monospace;">KC72 Website Recreation</a>
 <pre>
-A personal vault to save and share important links.
-Includes a custom UI library built from scratch.
-Tech: React, TypeScript, Node.js, Express, MongoDB, Tailwind
+A modern recreation of the KC72 website with smooth animations and responsive UI.
+Tech: React, Tailwind CSS, GSAP, Locomotive Scroll, Framer Motion
+<!-- 🔗 Live Demo: k72-ca-pratik.vercel.app -->
+💻 GitHub: github.com/pratik20gb/KC72
 </pre>
 
 ---
 
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratik20gb&theme=tokyonight" alt="GitHub Streak" />
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratik20gb&layout=compact&theme=tokyonight" alt="Top Languages" / -->
 </p>
-
-
-
