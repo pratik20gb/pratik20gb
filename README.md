@@ -1,48 +1,33 @@
-<pre>
-<p align="center">👋 Hi, I'm Pratik Raj, a web developer.</p>
-</pre>
+<!-- Typing header -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ocean&width=600&lines=Hi+there,+I'm+Pratik+Raj;Full-Stack+Developer+%7C+React+%7C+Next.js+%7C+TypeScript)](https://git.io/typing-svg)
 
-<h3 align="center" style="font-family: monospace;"> JavaScript | React | TypeScript | Next.js | Tailwind | MERN </h3>
+<div align="left" style="margin-top:12px">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=pratik20gb.pratik20gb&rstyle=plastic&left_text=Profile%20Views%20:" alt="profile views" />
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <!-- <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> -->
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <!-- <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" /> -->
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <!-- <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /> -->
-  <!-- <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /> -->
+## About
+
+<p style="font-size:16px;">
+I'm <strong>Pratik Raj</strong>  a Full-Stack Developer who builds scalable, user-friendly web apps.  
+I enjoy crafting responsive frontends with React/Next.js, writing typed code with TypeScript, and implementing real-time & AI-powered features.  
+Currently open to <strong>internships & job opportunities</strong>  eager to learn, contribute, and build impactful products.
 </p>
 
----
-
-### 🧩 <span style="font-family: monospace;">Featured Projects</span>
-
-#### 🔹 <a href="https://obys-agency-pratik.vercel.app/" style="font-family: monospace;">Obys Agency Clone</a>
-<pre>
-A pixel-perfect, animation-rich clone of the award-winning Obys Agency site.
-Tech: React, Tailwind, GSAP, Framer Motion
-🔗 Live Demo: obys-agency-pratik.vercel.app
-💻 GitHub: github.com/pratik20gb/Obys-Agency
-</pre>
-
----
-
-#### 🔹 <a href="https://restaura-pratik.vercel.app/" style="font-family: monospace;">Restaura – Restaurant Website</a>
-<pre>
-A clean and responsive restaurant website showcasing menu, aesthetics, and design.
-Tech: React, Tailwind CSS, Framer Motion
-🔗 Live Demo: restaura-pratik.vercel.app
-💻 GitHub: github.com/pratik20gb/restaura
-</pre>
-
----
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratik20gb&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind,aws,firebase,git" />
+</p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=ocean&width=600&lines=%3E+Working+on+BugCollab+-+Dev+networking+%26+collaboration;%3E+Working+on+CineGenie+-+AI+movie+recommendations;%3E+Working+on+BiteRush+-+Food+delivery+platform;%3E+Working+on+CodeTube+-+Video+streaming+platform;%3E+Working+on+Restaura+-+Restaurant+website)](https://git.io/typing-svg)
+
+## Connect
+<p align="center">
+  <a href="mailto:pratik20gb@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+  <a href="https://www.linkedin.com/in/pratiktwt/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a href="https://github.com/pratik20gb"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
+</p>
+
+<p align="center" style="margin-top:6px">
+   Open to internships, freelance projects, and full-time roles
 </p>
