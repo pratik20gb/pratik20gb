@@ -15,10 +15,3 @@ I build scalable backend systems and modern full-stack web apps.
   <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,js,ts,react,nextjs,mongodb,postgres,tailwind,supabase,aws,git" />
 </p>
 
-
-## Current Focus
-
-- Building **Next.js apps** with **Supabase**  
-- Developing **backend APIs** in **Java / Spring Boot**  
-- Creating **full-stack applications** with MERN & cloud services  
-
