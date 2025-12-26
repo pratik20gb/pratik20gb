@@ -14,4 +14,10 @@ I build scalable backend systems and modern full-stack web apps.
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,js,ts,react,nextjs,mongodb,postgres,tailwind,supabase,aws,git" />
 </p>
+<br />
+<div align="center">
+  <a href="https://thispratik.xyz">
+    <img src="https://img.shields.io/badge/View-Portfolio-black?style=for-the-badge&logo=github" />
+  </a>
+</div>
 
