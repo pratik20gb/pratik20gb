@@ -21,7 +21,7 @@ My work focuses on designing **scalable backend architectures**, building **high
       </a>
     </td>
     <td width="50%">
-      <a href="https://thepratik.xyz" target="_blank">
+      <a href="https://www.thepratik.xyz/" target="_blank">
         <img src="./thispratik.jpg" alt="Pratik Raj Portfolio" />
       </a>
     </td>
