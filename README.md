@@ -7,7 +7,7 @@
 
 ## About
 
-I am **Pratik Raj**, a **Backend and Full-Stack Developer** with experience across **Java, Spring Boot, MERN, Next.js, Web3, Supabase, PostgreSQL, and AWS**.
+I am **Pratik Raj**, a **Backend and Full-Stack Developer** with experience across **Java, Spring Boot, MERN, Next.js, Supabase, PostgreSQL, and AWS**.
 
 My work focuses on designing **scalable backend architectures**, building **high-performance APIs**, and delivering **production-ready full-stack applications** with clean, maintainable code. I have a strong understanding of modern web development, system design fundamentals, and end-to-end application deployment.
 
