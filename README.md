@@ -66,17 +66,6 @@ Currently building **FlowBoard** — a project management SaaS with Spring Boot,
 
 **Stack:** Java 21 · Spring Boot 3 · PostgreSQL · Redis · Kafka · React 18 · TypeScript · Docker · AWS
 
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratik20gb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratik20gb&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</div>
-
----
-
 ## 💡 What I Focus On
 
 ```
