@@ -50,7 +50,7 @@ Currently building **FlowBoard** — a project management SaaS with Spring Boot,
 
 ## 🚀 Featured Project
 
-### [Code8Flow](https://github.com/pratik20gb/code8flow)
+### [CODE8FLOW]([https://github.com/pratik20gb/code8flow](https://github.com/pratik20gb/cod8flow))
 > Full-stack project management SaaS — built with industry-grade architecture
 
 ```
