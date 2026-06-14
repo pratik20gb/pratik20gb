@@ -22,7 +22,7 @@
 
 Full-Stack Developer specializing in Java backend systems. I build production-grade applications with clean architecture, proper testing, and real DevOps practices.
 
-Currently building **FlowBoard** — a project management SaaS with Spring Boot, Kafka, Redis, and React.
+Currently building **COD8FLOW** — a project management SaaS with Spring Boot, Kafka, Redis, and React.
 
 ---
 
