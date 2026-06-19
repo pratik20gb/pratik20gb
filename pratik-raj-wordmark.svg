@@ -1,0 +1,18 @@
+<svg width="500" height="110" viewBox="0 0 500 110" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="nameGold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="15%" stop-color="#FFF8DE"/>
+      <stop offset="50%" stop-color="#E8B84B"/>
+      <stop offset="80%" stop-color="#B8862E"/>
+      <stop offset="100%" stop-color="#8A621F"/>
+    </linearGradient>
+    <linearGradient id="subGold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFF3CC"/>
+      <stop offset="100%" stop-color="#9A7325"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="500" height="110" fill="#0A0A0A"/>
+  <text x="250" y="62" text-anchor="middle" font-family="Arial, sans-serif" font-size="46" font-weight="700" letter-spacing="10" fill="url(#nameGold)">PRATIK RAJ</text>
+  <text x="250" y="88" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="400" letter-spacing="4" fill="url(#subGold)" opacity="0.75">FULL-STACK JAVA DEVELOPER</text>
+</svg>
