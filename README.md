@@ -30,11 +30,11 @@ Full-stack developer specializing in Java backend systems. I build production-gr
 
 <img src="https://raw.githubusercontent.com/pratik20gb/pratik20gb/main/code8flow-wordmark-lockup.svg" alt="Code8Flow" width="420"/>
 
-<br/><br/>
+
 
 *Where work flows.*
 
-<p>Full-stack project management platform — workspaces, boards, and tasks backed by production-grade Java infrastructure.</p>
+<p>Full-stack project management platform - workspaces, boards, and tasks backed by production-grade Java infrastructure.</p>
 
 [![Preview](https://img.shields.io/badge/Preview-cod8flow.thecod8r.space-D9A53D?style=for-the-badge)](https://cod8flow.thecod8r.space/)
 [![GitHub](https://img.shields.io/badge/GitHub-cod8flow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pratik20gb/cod8flow)
