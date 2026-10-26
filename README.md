@@ -1,35 +1,98 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/pratik20gb/pratik20gb/main/pratik-raj-wordmark.svg" alt="Pratik Raj" width="500"/>
 
-Full-stack Java dev. I like backend systems that don't fall over.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-D9A53D?style=for-the-badge&logo=linkedin&logoColor=000000)](https://linkedin.com/in/pratiktwt/)
-[![GitHub](https://img.shields.io/badge/GitHub-D9A53D?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/pratik20gb)
+### Software Engineer · Backend · Full Stack · Applied AI
+
+Building reliable software, thoughtful APIs, and products that solve real problems.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-D9A53D?style=for-the-badge&logo=linkedin&logoColor=171717)](https://www.linkedin.com/in/pratiktwt/)
+[![Email](https://img.shields.io/badge/Email-242424?style=for-the-badge&logo=gmail&logoColor=white)](mailto:email.pratikraj@gmail.com)
+[![Open to Work](https://img.shields.io/badge/Open_to_Work-18794E?style=for-the-badge&logoColor=white)](mailto:email.pratikraj@gmail.com)
 
 </div>
 
 ---
 
-### Hey, I'm Pratik 
+## About
 
-I build backend systems in Java - mostly Spring Boot, with Postgres, Redis, and whatever else the problem actually calls for. I care more about "does this hold up under real load" than "does this look good in a demo."
+I'm **Pratik Raj**, a software engineer with **one year of industry experience at RateGain**, working on enterprise Java services, API integrations, application reliability, Kubernetes deployments, and observability.
 
-Right now I'm looking for an SDE role where I can keep building things like that.
+My interests span **backend engineering, full-stack applications, and applied AI**. I enjoy taking ideas from architecture to implementation, with an emphasis on clean code, maintainability, and practical problem-solving.
 
-**What I actually reach for:**
+**Open to opportunities:** Software Engineer · Java Backend · Full Stack · AI Applications
 
-![Java](https://img.shields.io/badge/Java_21-D9A53D?style=for-the-badge&logo=openjdk&logoColor=000000)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-D9A53D?style=for-the-badge&logo=spring-boot&logoColor=000000)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-D9A53D?style=for-the-badge&logo=postgresql&logoColor=000000)
-![Docker](https://img.shields.io/badge/Docker-1F2937?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-1F2937?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![React](https://img.shields.io/badge/React-D9A53D?style=for-the-badge&logo=react&logoColor=000000)
+## Technical Expertise
+
+| Area | Technologies |
+| :--- | :--- |
+| **Languages** | Java, JavaScript, SQL |
+| **Backend** | Spring Boot, REST APIs, Spring Data JPA, Hibernate |
+| **Frontend** | React, HTML, CSS |
+| **Data** | PostgreSQL, Redis |
+| **Cloud & DevOps** | Docker, Kubernetes, Helm, Git, CI/CD |
+| **Observability** | Grafana, JVM metrics, application monitoring |
+| **AI Applications** | Spring AI, LLM integrations, retrieval-augmented generation |
+
+## Professional Experience
+
+**Software Engineer · RateGain Travel Technologies**  
+*October 2025 – October 2026*
+
+- Modernized Java HTTP integrations through an **Apache HttpClient 3.1 → 4.5.14** upgrade.
+- Worked on **connection pooling, request timeouts, and retry handling** for more resilient supplier integrations.
+- Contributed **Helm charts and Kubernetes configurations** for environment-specific application deployments.
+- Developed **Grafana dashboards** for JVM memory, garbage collection, and application monitoring.
+- Investigated production issues through application logs, debugging, and targeted fixes.
+
+## Selected Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### TatkalX
+**Railway Reservation System**
+
+Java-based reservation application centered on train management, persistence, and booking-system design.
+
+**Technologies:** Java · Spring Boot · PostgreSQL · Docker
+
+[**View repositories →**](https://github.com/pratik20gb?tab=repositories)
+
+</td>
+<td width="50%" valign="top">
+
+### ContextAI
+**AI Document Intelligence**
+
+Document-focused AI application concept bringing together a Java backend, web interface, and contextual information retrieval.
+
+**Technologies:** Spring Boot · React · Spring AI · PostgreSQL
+
+[**View repositories →**](https://github.com/pratik20gb?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+## Engineering Focus
+
+```text
+Backend systems     APIs · reliability · data modeling · concurrency
+Full-stack apps     Product workflows · frontend/backend integration
+Applied AI          LLM-powered features · retrieval · document workflows
+Infrastructure      Containers · deployment configuration · monitoring
+```
 
 ---
 
 <div align="center">
 
-📩 Open to opportunities — feel free to reach out on [LinkedIn](https://linkedin.com/in/pratiktwt/)
+### Let's Connect
+
+I'm open to software engineering roles and conversations about interesting technical work.
+
+**[LinkedIn](https://www.linkedin.com/in/pratiktwt/)** &nbsp;·&nbsp; **[Email](mailto:email.pratikraj@gmail.com)** &nbsp;·&nbsp; **[Repositories](https://github.com/pratik20gb?tab=repositories)**
 
 </div>
