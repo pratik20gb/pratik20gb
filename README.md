@@ -1,42 +1,38 @@
 <div align="center">
 
+### Software Engineer · Application Security · Backend · Full Stack
 
+Building secure, reliable, and scalable software with Java, Spring Boot, and modern web technologies.
 
-### Software Engineer · Backend · Full Stack · Applied AI
-
-Building reliable software, thoughtful APIs, and products that solve real problems.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-D9A53D?style=for-the-badge&logo=linkedin&logoColor=171717)](https://www.linkedin.com/in/pratiktwt/)
-[![Email](https://img.shields.io/badge/Email-242424?style=for-the-badge&logo=gmail&logoColor=white)](mailto:email.pratikraj@gmail.com)
-[![Open to Work](https://img.shields.io/badge/Open_to_Work-18794E?style=for-the-badge&logoColor=white)](mailto:email.pratikraj@gmail.com)
 
 </div>
-
 ---
 
 ## About
 
 I'm **Pratik Raj**, a software engineer with **one year of industry experience at RateGain**, working on enterprise Java services, API integrations, application reliability, Kubernetes deployments, and observability.
 
-My interests span **backend engineering, full-stack applications, and applied AI**. I enjoy taking ideas from architecture to implementation, with an emphasis on clean code, maintainability, and practical problem-solving.
+My interests span **application security, backend engineering, and full-stack development**. I enjoy designing reliable APIs, building end-to-end applications, and understanding how software can be made more secure, scalable, and maintainable.
 
-**Open to opportunities:** Software Engineer · Java Backend · Full Stack · AI Applications
+Currently exploring **web application security, OWASP Top 10, secure coding, authentication, and authorization**, alongside full-stack development with **Java Spring Boot and the MERN stack**.
+
+**Open to opportunities:** Software Engineer · Java Backend · Full Stack · Application Security
 
 ## Technical Expertise
 
-| Area | Technologies |
-| :--- | :--- |
-| **Languages** | Java, JavaScript, SQL |
-| **Backend** | Spring Boot, REST APIs, Spring Data JPA, Hibernate |
-| **Frontend** | React, HTML, CSS |
-| **Data** | PostgreSQL, Redis |
-| **Cloud & DevOps** | Docker, Kubernetes, Helm, Git, CI/CD |
-| **Observability** | Grafana, JVM metrics, application monitoring |
-| **AI Applications** | Spring AI, LLM integrations, retrieval-augmented generation |
+| Area                    | Technologies                                                                         |
+| ----------------------- | ------------------------------------------------------------------------------------ |
+| **Languages**           | Java, JavaScript, SQL                                                                |
+| **Backend**             | Spring Boot, REST APIs, Spring Data JPA, Hibernate, Node.js, Express.js              |
+| **Frontend**            | React.js, HTML, CSS                                                                  |
+| **Databases**           | PostgreSQL, MongoDB, Redis                                                           |
+| **Cloud & DevOps**      | Docker, Kubernetes, Helm, Git, CI/CD                                                 |
+| **Observability**       | Grafana, JVM Metrics, Application Monitoring                                         |
+| **Security (Learning)** | OWASP Top 10, Web Application Security, Authentication, Authorization, Secure Coding |
 
 ## Professional Experience
 
-**Software Engineer · RateGain Travel Technologies**  
+**Software Engineer · RateGain Travel Technologies**\
 *October 2025 – October 2026*
 
 - Modernized Java HTTP integrations through an **Apache HttpClient 3.1 → 4.5.14** upgrade.
@@ -45,45 +41,15 @@ My interests span **backend engineering, full-stack applications, and applied AI
 - Developed **Grafana dashboards** for JVM memory, garbage collection, and application monitoring.
 - Investigated production issues through application logs, debugging, and targeted fixes.
 
-## Selected Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### TatkalX
-**Railway Reservation System**
-
-Java-based reservation application centered on train management, persistence, and booking-system design.
-
-**Technologies:** Java · Spring Boot · PostgreSQL · Docker
-
-[**View repositories →**](https://github.com/pratik20gb?tab=repositories)
-
-</td>
-<td width="50%" valign="top">
-
-### ContextAI
-**AI Document Intelligence**
-
-Document-focused AI application concept bringing together a Java backend, web interface, and contextual information retrieval.
-
-**Technologies:** Spring Boot · React · Spring AI · PostgreSQL
-
-[**View repositories →**](https://github.com/pratik20gb?tab=repositories)
-
-</td>
-</tr>
-</table>
-
 ## Engineering Focus
 
-```text
-Backend systems     APIs · reliability · data modeling · concurrency
-Full-stack apps     Product workflows · frontend/backend integration
-Applied AI          LLM-powered features · retrieval · document workflows
-Infrastructure      Containers · deployment configuration · monitoring
-```
+**Application Security** — Web security · OWASP Top 10 · Secure coding
+
+**Backend Engineering** — Java · Spring Boot · REST APIs · SQL
+
+**Full-Stack Development** — React · Node.js · Express · MongoDB
+
+**Infrastructure** — Docker · Kubernetes · CI/CD · Monitoring
 
 ---
 
@@ -91,8 +57,10 @@ Infrastructure      Containers · deployment configuration · monitoring
 
 ### Let's Connect
 
-I'm open to software engineering roles and conversations about interesting technical work.
+Open to software engineering opportunities and conversations about application security and full-stack development.
 
-**[LinkedIn](https://www.linkedin.com/in/pratiktwt/)** &nbsp;·&nbsp; **[Email](mailto:email.pratikraj@gmail.com)** &nbsp;·&nbsp; **[Repositories](https://github.com/pratik20gb?tab=repositories)**
+[**LinkedIn**](https://www.linkedin.com/in/pratiktwt/) · [**Email**](mailto:email.pratikraj@gmail.com) · [**Repositories**](https://github.com/pratik20gb?tab=repositories)
 
 </div>
+
+Make the profile feel more humanSimplify the profile structure
