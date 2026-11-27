@@ -5,9 +5,9 @@
   <img src="./portfolio-cover.png" width="100%" alt="My Portfolio">
 </a>
 
-<a href="https://github.com/pratik20gb/TatkalX">
+<!-- <a href="https://github.com/pratik20gb/TatkalX">
   <img src="./tatkalx-cover.png" width="100%" alt="TatkalX">
-</a>
+</a> -->
 
 <a href="https://linkmines.store">
   <img src="./linkmines-cover.png" width="100%" alt="Linkmines">
