@@ -9,11 +9,11 @@
   <img src="./tatkalx-cover.png" width="100%" alt="TatkalX">
 </a>
 
-<a href="https://github.com/pratik20gb/Linkmines">
+<a href="https://linkmines.store">
   <img src="./linkmines-cover.png" width="100%" alt="Linkmines">
 </a>
 
-<a href="https://github.com/pratik20gb/Inkwell">
+<a href="https://inkwell.anovid.com">
   <img src="./inkwell-cover.png" width="100%" alt="Inkwell">
 </a>
 
